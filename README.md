@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# Food delivery app 🍲
 
 
 # Parcel
@@ -22,7 +22,7 @@
 
 
 
-# Namaste Food
+# Food delivery
 
 
 /**
